@@ -51,7 +51,7 @@ public class CCGPCTPCCodes extends ims.domain.DomainObject implements ims.domain
 	private String cCGDescription;
 	/** The associated DHA code for the Postcode */
 	private String dHACode;
-	/** Unit postcode – 8 character version */
+	/** Unit postcode â€“ 8 character version */
 	private String postcode;
 	/** SystemInformation */
 	private ims.domain.SystemInformation systemInformation = new ims.domain.SystemInformation();
