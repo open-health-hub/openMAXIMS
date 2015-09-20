@@ -170,7 +170,7 @@ public class CatsReferral extends ims.domain.DomainObject implements ims.domain.
 	private Boolean isOnwardReferralTriage;
 	/** Nearest Treatment Centre Location */
 	private ims.core.resource.place.domain.objects.Location nearestTreatmentCentre;
-	/** Is there an OP Procedure awaiting appointment’ */
+	/** Is there an OP Procedure awaiting appointment */
 	private Boolean hasOPProcAwaitingAppt;
 	/** Urgency */
 	private ims.domain.lookups.LookupInstance urgency;
